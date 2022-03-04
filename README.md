@@ -1,19 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=7500&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Building+Discord+Bots+in+Python;Try+Learning+HTML%2C+CSS%2C++JS;Having+Fun+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+## ❤️ About me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTheIcyDragon&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTheIcyDragon&layout=compact&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on my [Discord Bot](https://github.com/DTheIcyDragon/Discord-Bot-V4)
+- 🌱 I’m currently learning Python, HTML, CSS
+- 🤔 I’m looking for help with my life, Python, CSS, HTML, **JS**
+- 💬 Ask me about anything
+- 📫 How to reach me: here or at my [Discord](https://discord.com/invite/bd8vUQd), DTheIcyDragon#1214
+- 😄 Pronouns: he/him/they/them
+- ⚡ Fun fact: I like Python
 
+## 📊 Github stats
 
-<!--
-**DTheIcyDragon/DTheIcyDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DTheIcyDragon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DTheIcyDragon&show_icons=true&count_private=true&theme=merko&hide_border=true&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DTheIcyDragon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTheIcyDragon&langs_count=8&layout=compact&theme=merko&hide_border=true&icon_color=F8D866"/></a>
+  <br/>
+  
+<!--       _
+       .__(.)< (MEOW)
+        \___)   
+ ~~~~~~~~~~~~~~~~~~
+Here a MEOWing duck 
+Made by Amazon-->
