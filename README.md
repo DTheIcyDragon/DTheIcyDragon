@@ -8,6 +8,10 @@
 - 😄 Pronouns: he/him/they/them
 - ⚡ Fun fact: Here is a secret
 
+## 🟢 Online Tracker
+
+[![](https://discord.c99.nl/widget/theme-3/511219492332896266.png)](https://discord.com/invite/bd8vUQd)
+
 ## 📊 Github stats
 
   <br/>
