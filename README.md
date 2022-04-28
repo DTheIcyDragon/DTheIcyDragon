@@ -21,7 +21,7 @@
 
 ## ⭐ Favorite Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DTheIcyDragon&repo=Discord-Bot-V4&theme=merko&hide_border=true)](https://github.com/dtheicydragon/discord-bot-v4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DTheIcyDragon&repo=Ultimate-Bot&theme=merko&hide_border=true)](https://github.com/DTheIcyDragon/Ultimate-Bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pycord-Development&repo=pycord&theme=merko&hide_border=true)](https://github.com/Pycord-Development/pycord)
 
  
