@@ -1,6 +1,6 @@
 ## ❤️ About me
 
-- 🔭 I’m currently working on my [Discord Bot](https://github.com/DTheIcyDragon/Discord-Bot-V4)
+- 🔭 I’m currently working on my [Discord Bot](https://github.com/DTheIcyDragon/Bot-V5)
 - 🌱 I’m currently learning Python, HTML, CSS
 - 🤔 I’m looking for help with my life, Python, CSS, HTML, **JS**
 - 💬 Ask me about anything
