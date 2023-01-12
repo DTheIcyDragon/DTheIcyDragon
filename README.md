@@ -16,7 +16,8 @@
 
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DTheIcyDragon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DTheIcyDragon&show_icons=true&count_private=true&theme=merko&hide_border=true&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DTheIcyDragon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTheIcyDragon&langs_count=8&layout=compact&theme=merko&hide_border=true&icon_color=F8D866"/></a>
+<img alt="DTheIcyDragon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTheIcyDragon&langs_count=8&layout=compact&theme=merko&hide_border=true&icon_color=F8D866"/></a>
+ <img src = "https://streak-stats.demolab.com?user=DTheIcyDragon&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly">
   <br/>
 
 ## ⭐ Favorite Projects
