@@ -15,14 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=dtheicydragon&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## 🟢 Online Tracker
 
 [![](https://discord.c99.nl/widget/theme-3/511219492332896266.png)](https://discord.com/invite/bd8vUQd)
